@@ -1,5 +1,0 @@
-train: /mnt/c/projects/Real-Time Sign Language Detection/images/dataset/images/train
-val: /mnt/c/projects/Real-Time Sign Language Detection/images/dataset/images/val
-
-nc: 5
-names: ['Hello', 'Thank You', 'Yes', 'No', 'I Love You'] 
