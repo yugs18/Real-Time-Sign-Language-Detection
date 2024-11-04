@@ -97,7 +97,7 @@ Builds and trains a CNN for sign language gesture detection.
 
 ---
 
-# Real-Time Sign Language Detection
+# Real-Time Prediction
 
 ## Importing Necessary Libraries
 1. **OpenCV**: For video processing, capturing from the webcam, and drawing bounding boxes.
